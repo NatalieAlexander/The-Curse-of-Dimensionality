@@ -1,6 +1,6 @@
 ---
-title: "Unsupervised Learning (STA5077Z)"
-subtitle: "Assignment 2"
+title: "Code"
+subtitle: "Assignment"
 author: "Natalie Bianca Alexander"
 format: 
   pdf:
