@@ -1,4 +1,6 @@
-# Abstract
+# The Curse of Dimensionality 👻
+
+## Abstract
 The curse of dimensionality refers to the challenges introduced when analyzing, processing, visualizing, and storing
 high dimensional data. Dimension reduction was introduced to transform such data, lying on a high-dimensional
 surface or manifold, to a low-dimensional representation of the data - which retains the important properties of the
@@ -12,7 +14,7 @@ reduced WDBC data had the smallest difference in accuracy (0.005) relative to th
 that a KNN trained on autoencoder reduced CG data had the smallest absolute difference in accuracy (0.001) relative
 to the original model.
 
-# Introduction
+## Introduction
 Richard E. Bellman, an American mathematician, described the “curse of dimensionality” as the increase in volume
 associated with adding extra dimensions to a Euclidean space, Karanam (2021) . Although an increasing number of
 dimensions can theoretically introduce more information to the data, practically, this may also introduce more noise
